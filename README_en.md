@@ -415,4 +415,4 @@ Other examples (Chinese): [examples.md](examples.md)
 
 ## Stars
 
-[![Stargazers over time](https://github.com/Marven11/Fenjing/raw/images/assets/stars.svg)](https://starchart.cc/Marven11/Fenjing)
+[![Stargazers over time](https://github.com/Marven11/Fenjing/raw/images/assets/stars.svg)](https://www.star-history.com/?repos=Marven11%2FFenjing&type=date&legend=top-left)
